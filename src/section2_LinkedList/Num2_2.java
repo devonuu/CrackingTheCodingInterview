@@ -1,4 +1,4 @@
-package section3_LinkedList;
+package section2_LinkedList;
 
 import java.util.LinkedList;
 import org.junit.jupiter.api.Assertions;

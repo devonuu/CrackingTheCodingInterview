@@ -1,4 +1,4 @@
-package section3_LinkedList;
+package section2_LinkedList;
 
 import java.util.Collections;
 import java.util.HashSet;
